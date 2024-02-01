@@ -43,4 +43,4 @@
 Resources: 
 
 1. Setting up AWS CLI w/ IAM role: https://docs.aws.amazon.com/cli/latest/userguide/cli-authentication-user.html
-2. 
+2. Generating an SSH key on your EC2 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
