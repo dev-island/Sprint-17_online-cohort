@@ -26,15 +26,21 @@
   - The app. This is the application running on the server that listens for requests, retrieves information from the database, and sends a response.
   - The database. Databases are used to organize and persist data.
 3. NodeJS
-   1. ASync event driven javascript runtime
+   1. What is node: ASync event driven javascript runtime
    2. Running files in node
    3. Debugging node
    4. Developing in node -> Nodemon
    5. Working with files
 4. NodeJS Server
-   1. Making http requests
-   2. Serving "static" content
-   3. ENVs -> Keeping your secrets secret
+   1. Basic node server
+   2. Making http requests
+   3. Serving "static" content
+   4. ENVs -> Keeping your secrets secret
 5. AWS - Cloud development tools
    1. S3 bucket
-   2. EC2
+   2. EC2 - [deploy to ec2](https://bhavan.dev/blog/how-to-deploy-node-js-application-to-aws-ec2-a-step-by-step-guide?trk=article-ssr-frontend-pulse_little-text-block) & [securing your .pem file](https://stackoverflow.com/questions/8193768/unprotected-private-key-file-error-using-ssh-into-amazon-ec2-instance-aws)
+
+Resources: 
+
+1. Setting up AWS CLI w/ IAM role: https://docs.aws.amazon.com/cli/latest/userguide/cli-authentication-user.html
+2. 
